@@ -1,0 +1,172 @@
+
+
+
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10vw;
+  }
+
+ 
+
+
+  .mid-right {
+    display:block;
+    margin-left: auto;
+    margin-right:15%;
+    margin-top: 5%;
+    width:35vw;
+  }
+
+  
+  .mid-left {
+    display:block;
+    margin-left:9%;
+    margin-right: auto;
+    width:35vw;
+  }
+
+.dive-in {
+  font-size: 2vw;
+  display:block;
+  margin-left: 50%;
+  margin-top: -13%;
+  font-style: italic;
+  text-decoration: none;
+  color: black;
+}
+
+p {
+  position: absolute;
+  font-size: 1vw;
+  width: 40vw;
+  text-align: left;
+  right:10%;
+  top:50%;
+  line-height: 2vw;
+  opacity: 1;
+}
+
+
+
+.moo{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50vw;
+}
+
+h2{
+  
+  font-size: 1.4vw;
+  width:40vw;
+}
+
+.fish-talk{
+  width:15vw;
+  position: absolute;
+  top:4%;
+  right:31%;
+}
+
+p, h1, h2, h3, h4 {
+  font-family:'Times New Roman', Times, serif;
+  font-weight: lighter;
+  color: black;
+}
+
+h4 {
+  position: absolute;
+  left:25%;
+  font-size: 1vw;
+  width: 50vw;
+  line-height: 2vw;
+  top:35%;
+  margin-bottom: 10px;
+  text-align: center;
+  
+}
+
+.source-return{
+  width: 10vw;
+  position: absolute;
+  top:10%;
+  right:45%;
+}
+
+h5 {
+  position: absolute;
+  left: 50%;
+  
+}
+
+
+.final {
+  
+  width:35vw;
+  position:absolute;
+  top:35%;
+  right:33%;
+}
+
+.sources {
+  color: black;
+  text-decoration:underline;
+  font-style: italic;
+  position: absolute;
+bottom:3%;
+left:48%;
+  font-size: 1.1vw;
+
+}
+
+
+.button-left {
+  position: absolute;
+  top: 60%;
+  left:1%;
+  width:7vw;
+}
+
+.button-right {
+position: absolute;
+top: 60%;
+right:1%;
+width:7vw;
+}
+
+
+
+
+
+
+
+.entry-button{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50vw; 
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  color: white;
+  text-align: center;
+  margin-top: 30px;
+  margin-left: 28%;
+}
+
+.definitions{
+  width: 40vw;
+}
+
+
+.wowza{
+  margin-left: -50%;
+}
+
+
